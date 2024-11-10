@@ -10,10 +10,6 @@ tags: [Matemáticas, combinatoria, oposiciones]
 description: Este espacio nace con el objetivo de ofrecer material de apoyo a la hora de preparar la parte teórica de la primera prueba de la oposición al 
 cuerpo de Profesores de Enseñanza Secundaria de Matemáticas, pero también para preparar los exámenes de las asignaturas de 
 matemáticas a un nivel equivalente de los primeros cursos universitarios de grados de ciencias.
-[View PDF](assets/files/oposiciones/tema3.pdf)
-
-
-`<embed src="/assets/files/oposiciones/tema3.pdf" type="application/pdf" width="100%" height="600px" />`
 
 ---
 
