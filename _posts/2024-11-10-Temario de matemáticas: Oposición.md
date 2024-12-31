@@ -16,7 +16,7 @@ En este post, te presento un tema fundamental del temario de matemáticas para o
 Todo buscando la originalidad y poniendo mi toque personal.
 ---
 
-<iframe src="/assets/files/oposiciones/tema3.pdf" width="100%" height="600px">
+<iframe src="/assets/files/oposiciones/tema15.pdf" width="100%" height="600px">
   Tu navegador no soporta la visualización del PDF.
 </iframe>
 
