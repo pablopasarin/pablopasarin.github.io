@@ -14,12 +14,12 @@ En este post, te presento un tema fundamental del temario de matemáticas para o
 - **Demostraciones clave**: Desarrollo de teorías y propiedades relevantes, como la resolución de ecuaciones lineales y su vinculación con el Máximo Común Divisor.
 - **Ejemplos prácticos**: Ejercicios paso a paso y problemas clásicos.
 
+Todo buscando la originalidad y poniendo mi toque personal.
 ---
 
-### Visualiza el temario en PDF:
-
-<iframe src="[https://www.tusitio.com/temario.pdf](https://github.com/pablopasarin/pablopasarin.github.io/blob/main/_posts/assets/files/oposiciones/tema3.pdf)" width="100%" height="600px">
-Tu navegador no soporta la visualización del PDF. [Descárgalo aquí](https://www.tusitio.com/temario.pdf).
+<iframe src="/assets/files/oposiciones/tema3.pdf" width="100%" height="600px">
+Tu navegador no soporta la visualización del PDF. 
+<a href="/assets/files/oposiciones/tema3.pdf">Descárgalo aquí</a>.
 </iframe>
 
 ---
