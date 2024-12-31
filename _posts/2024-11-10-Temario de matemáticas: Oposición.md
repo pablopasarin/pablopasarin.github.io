@@ -5,7 +5,6 @@ description: ""
 date: 2024-11-10 10:00:00 +0000
 categories: [Oposiciones]
 tags: [Matemáticas, oposiciones]
-author: "Pablo Pasarín"
 ---
 
 En este post, te presento un tema fundamental del temario de matemáticas para oposiciones: **Ecuaciones Diofánticas**. A lo largo de este contenido encontrarás de manera personalizada:
@@ -18,8 +17,7 @@ Todo buscando la originalidad y poniendo mi toque personal.
 ---
 
 <iframe src="/assets/files/oposiciones/tema3.pdf" width="100%" height="600px">
-Tu navegador no soporta la visualización del PDF. 
-<a href="/assets/files/oposiciones/tema3.pdf">Descárgalo aquí</a>.
+  Tu navegador no soporta la visualización del PDF.
 </iframe>
 
 ---
