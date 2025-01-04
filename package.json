@@ -1,0 +1,24 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp; [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]",
+  "main": "index.js",
+  "scripts": {
+    "start": "your-start-command-here",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablopasarin/pablopasarin.github.io.git#main"
+  },
+  "author": "Pablo Pasarin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pablopasarin/pablopasarin.github.io/issues"
+  },
+  "homepage": "https://github.com/pablopasarin/pablopasarin.github.io/tree/main#readme",
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
