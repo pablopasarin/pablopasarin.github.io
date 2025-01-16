@@ -20,8 +20,8 @@ de modo que la estructura cobra forma curva y estable. A medida que se van suman
 
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; margin-top: 20px;">
-  <img src="../../assets/images/20241219_100021.jpg" alt="Cúpula de Leonardo da Vinci" style="width: 300px; height: auto;">
-  <img src="../../assets/images/20241219_100026.jpg" alt="Cúpula de Leonardo da Vinci" style="width: 300px; height: auto;">
+  <img src="/assets/images/20241219_100021.jpg" alt="Cúpula de Leonardo da Vinci" style="width: 300px; height: auto;">
+  <img src="/assets/images/20241219_100026.jpg" alt="Cúpula de Leonardo da Vinci" style="width: 300px; height: auto;">
 </div>
 
 ### ¿CÓMO SE CONSTRUYE?
